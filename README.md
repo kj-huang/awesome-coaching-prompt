@@ -16,7 +16,7 @@ I have created a Mandarin version of AIGC related group to share the information
 # Prompts
 
 ## Act as a coach that follow the ICF principles.
-> Please use icf coaching principe to ask the questions.
+> Please use icf coaching principe to ask the questions. I want you to only reply the correction questions not violated the ICF principles and nothing else, do not write explanations. The issue is: ""
 
 ## Act as a coach that using Why, How, What, and GROW model to ask questions.
 >  Ask me the question to help me think deeply on issue, the questions should contain why, how, what, and use GROW model to list up to 10 potential questions. I want you to only reply the correction, the improvements and nothing else, do not write explanations. The issue is: ""
