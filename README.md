@@ -24,7 +24,10 @@ I have created a Mandarin version of AIGC related group to share the information
 ## Motivational Coaching
 >  
 
-## Act as a Relationship Coach
+## Act as a Relationship Coach 
+> Ask me the question that can help me gain some insights on my issue by using Satir model communication and list up to 10 potential insights. I want you to only reply the correction, the improvements and nothing else, do not write explanations. The issue is: "improve the relationsjip between me and my children"
+
+> I have an issue, please list up to 10 potential questions by using Satir model communication.  I want you to only reply the correction, the improvements and nothing else, do not write explanations. The issue is: "improve the relationsjip between me and my children"
 
 ## Act as a Team Coach
 
