@@ -29,8 +29,9 @@ I have created a Mandarin version of AIGC related group to share the information
 
 > I have an issue, please list up to 10 potential questions by using Satir model communication.  I want you to only reply the correction, the improvements and nothing else, do not write explanations. The issue is: "improve the relationship between me and my children"
 
-## Act as a Team Coach
+## Scrum 100 impediments
+As the 100 impediments mention in https://xp123.com/downloads/100Impediments.pdf, the ScrumMaster helps remove impediments. Certainly thatʼs a challenge, but it can be a challenge to recognize impediments as well. With that in mind, here are some potential impediments to watch out for.
 
-## Act as a Enterprise Coach
+### Organizational Coaching
+> I have an issue on Lack of collocation problem, you as a coach, please help me to list up to 10 potential questions to help me  discuss with my teammates. I want you to only reply the correction, the improvements and nothing else, do not write explanations. The issue is: "My team is a remote virtual team, and we found that the timezone problem is exist so that the people is hard to synchornize the tasks."
 
-## Act as a Coach
